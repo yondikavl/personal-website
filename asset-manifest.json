@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b2f28ae.css",
+    "main.js": "/static/js/main.a67dbc68.js",
+    "static/js/787.0aad1a80.chunk.js": "/static/js/787.0aad1a80.chunk.js",
+    "static/media/saya.png": "/static/media/saya.345c09cec7b1193c373a.png",
+    "static/media/react-logo.svg": "/static/media/react-logo.f57b349b4d9df56c9b48c916a8d5adfb.svg",
+    "static/media/bootstrap-logo.svg": "/static/media/bootstrap-logo.93fe84041cc1b588f15c332248529333.svg",
+    "static/media/javascript-logo.svg": "/static/media/javascript-logo.0866c81b3b841c647e23b8a5d991c312.svg",
+    "static/media/tailwindcss-logo.svg": "/static/media/tailwindcss-logo.f94972e4845d675a49698c46b404a570.svg",
+    "static/media/html-5-logo.svg": "/static/media/html-5-logo.e248da514edac2a2a66bde8fa0166701.svg",
+    "static/media/figma-logo.svg": "/static/media/figma-logo.eea90cbdb2df47f3f9a77474d7dd244c.svg",
+    "index.html": "/index.html",
+    "main.6b2f28ae.css.map": "/static/css/main.6b2f28ae.css.map",
+    "main.a67dbc68.js.map": "/static/js/main.a67dbc68.js.map",
+    "787.0aad1a80.chunk.js.map": "/static/js/787.0aad1a80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b2f28ae.css",
+    "static/js/main.a67dbc68.js"
+  ]
+}
