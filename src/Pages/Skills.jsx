@@ -9,7 +9,7 @@ import ReactLogo from '../assets/images/react-logo.svg'
 function Skills() {
   return (
     <div className='Skills'>
-        <div className='my-24 px-8 lg:px-40 text-white'>
+        <div className='my-24 px-4 lg:px-40 text-white'>
           <div data-aos="zoom-in" 
               data-aos-duration="2500"
               className='p-[0.025rem] bg-gray-600'></div>

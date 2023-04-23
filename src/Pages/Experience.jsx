@@ -3,7 +3,7 @@ import React from 'react'
 function Experience() {
   return (
     <div className='educationAndExperience'>
-        <div className='my-24 px-8 lg:px-40 text-white'>
+        <div className='my-24 px-4 lg:px-40 text-white'>
           <div data-aos="zoom-in" 
               data-aos-duration="2500"
               className='p-[0.025rem] bg-gray-600'></div>
@@ -15,7 +15,7 @@ function Experience() {
                 className='text-xs text-gray-400 lg:text-base'>2018</p>
               <p data-aos="zoom-in" 
                 data-aos-duration="1500"
-                className='mt-4 text-sm lg:text-base'>Senior High Scholl Computer and Network Engineering</p>
+                className='mt-4 text-sm lg:text-base'>Vocational High Scholl Computer and Network Engineering</p>
               <p data-aos="zoom-in" 
                 data-aos-duration="1500"
                 className='text-xs text-gray-400 lg:text-sm'>SMK Swadhipa 2 Natar</p>

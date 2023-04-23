@@ -4,9 +4,9 @@ import GambarHeader from '../assets/images/saya.png';
 function Hero() {
   return (
     <section className='Hero'>
-        <div className='my-32 lg:my-48 px-8 lg:px-40 flex flex-col lg:flex-row items-center justify-between text-white'>
+        <div className='my-32 lg:my-48 px-4 lg:px-40 flex flex-col lg:flex-row items-center justify-between text-white'>
           <div className='lg:w-40 text-left flex lg:block justify-between flex-wrap lg:flex-nowrap'>
-            <div className='w-40'>
+            <div className='mt-4 lg:mt-0 w-40'>
               <h3 data-aos="fade-right" 
                 data-aos-duration="1500" 
                 className='text-xs lg:text-sm lg:mb-1 text-gray-400'>BIOGRAPHY</h3>
@@ -14,7 +14,7 @@ function Hero() {
                 data-aos-duration="1500" 
                 className='text-xs lg:text-base'>Work for money and Develop for love.</p>
             </div>
-            <div className='lg:mt-12 w-40'>
+            <div className='mt-4 lg:mt-12 w-40'>
               <h3 data-aos="fade-right" 
                 data-aos-duration="1500" 
                 className='text-xs lg:text-sm lg:mb-1 text-gray-400'>SERVICE</h3>
@@ -28,7 +28,7 @@ function Hero() {
                 data-aos-duration="1500" 
                 className='text-xs lg:text-base'>Mobile App Design</p>
             </div>
-            <div className='lg:mt-12 w-40'>
+            <div className='mt-4 lg:mt-12 w-40'>
               <h3 data-aos="fade-right" 
                 data-aos-duration="1500" 
                 className='text-xs lg:text-sm lg:mb-1 text-gray-400'>CONTACT</h3>

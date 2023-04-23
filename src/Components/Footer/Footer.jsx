@@ -4,7 +4,7 @@ import {FaGithub, FaLinkedin, FaInstagram, FaDribbble} from 'react-icons/fa'
 function Footer() {
   return (
     <div className='Footer'>
-        <div className='mt-24 pb-8 px-8 lg:px-40 text-white'>
+        <div className='mt-24 pb-8 px-4 lg:px-40 text-white'>
           <div className='p-[0.025rem] bg-gray-600'></div>
           <div className='flex flex-row justify-between mt-12 flex-wrap text-left'>
             <div className='mx-2 my-2 lg:my-0'>
