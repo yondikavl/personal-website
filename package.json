@@ -1,7 +1,7 @@
 {
   "name": "portofolio-yondika",
   "version": "0.1.0",
-  "homepage": "https://yondikavl.github.io",
+  "homepage": "https://yondikavl.github.io/Personal-Website",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
