@@ -22,7 +22,7 @@ const Jumbotron = () => {
 
     return (
         <section className='Hero'>
-            <div className='w-screen h-screen my-32 lg:my-0 px-6 md:px-40 flex flex-col lg:flex-row items-center justify-between text-white'>
+            <div className='w-screen min-h-screen my-32 lg:my-0 px-6 md:px-40 flex flex-col lg:flex-row items-center justify-between text-white over'>
                 <div className='w-screen lg:w-40 px-6 lg:px-0 text-left flex lg:block justify-between flex-wrap lg:flex-nowrap'>
                     <div className='mt-4 lg:mt-0 md:w-40'>
                         <h3 className='text-xs lg:text-sm lg:mb-2 text-gray-400'>BIOGRAPHY</h3>
@@ -40,26 +40,15 @@ const Jumbotron = () => {
                     </div>
                 </div>
 
-                <div className='text-center mt-20 lg:mt-0'>
-                    <h1 data-aos='zoom-in' data-aos-duration='2500' className='text-4xl lg:text-8xl font-bold'>
-                        Yondika Vio Landa
-                    </h1>
-                    <h1 data-aos='zoom-out' data-aos-duration='2500' className='text-4xl lg:text-8xl font-bold'>
+                <div className='text-center lg:mt-0'>
+                    <h1 className='text-4xl lg:text-8xl font-bold'>Yondika Vio Landa</h1>
+                    <h1 className='text-4xl lg:text-8xl font-bold'>
                         Web <span className='typing-text' ref={el}></span>
                     </h1>
-                    <h1 data-aos='zoom-in' data-aos-duration='2500' className='text-4xl lg:text-8xl font-bold'>
-                        Based in Indonesia
-                    </h1>
+                    <h1 className='text-4xl lg:text-8xl font-bold'>Based in Indonesia</h1>
                 </div>
 
-                {/* <div className='mt-8 lg:mt-0'>
-            <img data-aos="fade-down" 
-              data-aos-duration="1500" 
-              className='w-80 lg:w-96 bg-gray-100 rounded-full' 
-              src={GambarHeader} alt='' />
-          </div> */}
-
-                <div className='w-screen lg:w-40 px-8 lg:px-0 mt-20 lg:mt-0 text-center lg:text-right flex lg:block justify-between flex-wrap lg:flex-nowrap'>
+                <div className='w-screen lg:w-40 px-8 lg:px-0 mt-16 lg:mt-0 text-center lg:text-right flex lg:block justify-between flex-wrap lg:flex-nowrap'>
                     <div className='w-28 lg:w-40'>
                         <h3 className='text-xs lg:text-sm lg:mb-2 text-gray-400'>YEAR OF EXPERIENCE</h3>
                         <p className='text-3xl lg:text-5xl'>2</p>
