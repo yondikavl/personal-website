@@ -25,34 +25,18 @@ const Jumbotron = () => {
             <div className='w-screen h-screen my-32 lg:my-0 px-6 md:px-40 flex flex-col lg:flex-row items-center justify-between text-white'>
                 <div className='w-screen lg:w-40 px-6 lg:px-0 text-left flex lg:block justify-between flex-wrap lg:flex-nowrap'>
                     <div className='mt-4 lg:mt-0 md:w-40'>
-                        <h3 data-aos='fade-right' data-aos-duration='1500' className='text-xs lg:text-sm lg:mb-2 text-gray-400'>
-                            BIOGRAPHY
-                        </h3>
-                        <p data-aos='zoom-in' data-aos-duration='1500' className='text-xs lg:text-base'>
-                            Work for money and Develop for love
-                        </p>
+                        <h3 className='text-xs lg:text-sm lg:mb-2 text-gray-400'>BIOGRAPHY</h3>
+                        <p className='text-xs lg:text-base'>Work for money and Develop for love</p>
                     </div>
                     <div className='mt-4 lg:mt-12 md:w-40'>
-                        <h3 data-aos='fade-right' data-aos-duration='1500' className='text-xs lg:text-sm lg:mb-2 text-gray-400'>
-                            SERVICE
-                        </h3>
-                        <p data-aos='zoom-in' data-aos-duration='1500' className='text-xs lg:text-base'>
-                            Web Development
-                        </p>
-                        <p data-aos='zoom-in' data-aos-duration='1500' className='text-xs lg:text-base'>
-                            Web Design
-                        </p>
+                        <h3 className='text-xs lg:text-sm lg:mb-2 text-gray-400'>SERVICE</h3>
+                        <p className='text-xs lg:text-base'>Web Development</p>
+                        <p className='text-xs lg:text-base'>Web Design</p>
                     </div>
                     <div className='mt-4 lg:mt-12 md:w-40'>
-                        <h3 data-aos='fade-right' data-aos-duration='1500' className='text-xs lg:text-sm lg:mb-2 text-gray-400'>
-                            CONTACT
-                        </h3>
-                        <p data-aos='zoom-in' data-aos-duration='1500' className='text-xs lg:text-base'>
-                            Lampung, Indonesia
-                        </p>
-                        <p data-aos='zoom-in' data-aos-duration='1500' className='text-xs lg:text-base'>
-                            yondikaviolanda@gmail.com
-                        </p>
+                        <h3 className='text-xs lg:text-sm lg:mb-2 text-gray-400'>CONTACT</h3>
+                        <p className='text-xs lg:text-base'>Lampung, Indonesia</p>
+                        <p className='text-xs lg:text-base'>yondikaviolanda@gmail.com</p>
                     </div>
                 </div>
 
@@ -77,28 +61,16 @@ const Jumbotron = () => {
 
                 <div className='w-screen lg:w-40 px-8 lg:px-0 mt-20 lg:mt-0 text-center lg:text-right flex lg:block justify-between flex-wrap lg:flex-nowrap'>
                     <div className='w-28 lg:w-40'>
-                        <h3 data-aos='fade-left' data-aos-duration='1500' className='text-xs lg:text-sm lg:mb-2 text-gray-400'>
-                            YEAR OF EXPERIENCE
-                        </h3>
-                        <p data-aos='zoom-in' data-aos-duration='1500' className='text-3xl lg:text-5xl'>
-                            2
-                        </p>
+                        <h3 className='text-xs lg:text-sm lg:mb-2 text-gray-400'>YEAR OF EXPERIENCE</h3>
+                        <p className='text-3xl lg:text-5xl'>2</p>
                     </div>
                     <div className='lg:mt-12 w-28 lg:w-40'>
-                        <h3 data-aos='fade-left' data-aos-duration='1500' className='text-xs lg:text-sm lg:mb-2 text-gray-400'>
-                            CLIENT ON WORLDWIDE
-                        </h3>
-                        <p data-aos='zoom-in' data-aos-duration='1500' className='text-3xl lg:text-5xl'>
-                            + 99
-                        </p>
+                        <h3 className='text-xs lg:text-sm lg:mb-2 text-gray-400'>CLIENT ON WORLDWIDE</h3>
+                        <p className='text-3xl lg:text-5xl'>+ 99</p>
                     </div>
                     <div className='lg:mt-12 w-28 lg:w-40'>
-                        <h3 data-aos='fade-left' data-aos-duration='1500' className='text-xs lg:text-sm lg:mb-2 text-gray-400'>
-                            PROJECT DONE
-                        </h3>
-                        <p data-aos='zoom-in' data-aos-duration='1500' className='text-3xl lg:text-5xl'>
-                            999
-                        </p>
+                        <h3 className='text-xs lg:text-sm lg:mb-2 text-gray-400'>PROJECT DONE</h3>
+                        <p className='text-3xl lg:text-5xl'>999</p>
                     </div>
                 </div>
             </div>
